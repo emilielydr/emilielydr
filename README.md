@@ -8,8 +8,7 @@
 
 📫 How to reach me emilielydr@gmail.com
 
+💻 View my porfolio: https://emilielydr.github.io/EmiliePublicWebsite/ 
 <!--
 **emilielydr/emilielydr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
